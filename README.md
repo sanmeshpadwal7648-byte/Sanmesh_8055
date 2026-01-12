@@ -1,2 +1,2 @@
 # Sanmesh_8055
-I love technology
+This is my 1st git Repository
